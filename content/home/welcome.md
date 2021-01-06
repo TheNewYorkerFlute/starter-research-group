@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-My research focuses on the design, control and investigation of synthetic quantum systems/quantum many-body systems.
+My research focuses on the design, control and investigation of synthetic quantum many-body systems.
