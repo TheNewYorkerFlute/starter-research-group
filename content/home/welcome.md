@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Welcome"
+title: ""
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-My research focuses on the design and investigation of synthetic quantum systems as well as quantum many-body systems in general.
+My research focuses on the design, control and investigation of synthetic quantum systems/quantum many-body systems.
