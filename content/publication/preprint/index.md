@@ -61,7 +61,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 
-title: "An example preprint / working paper"
 ---
 
 
