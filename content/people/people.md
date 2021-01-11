@@ -1,7 +1,6 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
 widget: people
 
 # This file represents a page section.
