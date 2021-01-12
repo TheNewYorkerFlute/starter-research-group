@@ -1,5 +1,6 @@
 ---
 title: New preprint: Non-Abelian gauge invariance from dynamical decoupling
+
 date: 2020-12-01
 ---
 
