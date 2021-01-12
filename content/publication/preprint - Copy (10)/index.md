@@ -1,7 +1,7 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Implementing quantum electrodynamics with ultracold atomic systems"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Valentin Kasper, Florian Hebenstreit, Fred Jendrzejewski, Markus K Oberthaler, Juergen Berges
 date: ""
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
+abstract: We discuss the experimental engineering of model systems for the description of QED in one spatial dimension via a mixture of bosonic $^{23}$Na and fermionic $^6$Li atoms. The local gauge symmetry is realized in an optical superlattice, using heteronuclear boson-fermion spin-changing interactions which preserve the total spin in every local collision. We consider a large number of bosons residing in the coherent state of a Bose-Einstein condensate on each link between the fermion lattice sites, such that the behavior of lattice QED in the continuum limit can be recovered. The discussion about the range of possible experimental parameters builds, in particular, upon experiences with related setups of fermions interacting with coherent samples of bosonic atoms. We determine the atomic system's parameters required for the description of fundamental QED processes, such as Schwinger pair production and string breaking. This is achieved by benchmark calculations of the atomic system and of QED itself using functional integral techniques. Our results demonstrate that the dynamics of one-dimensional QED may be realized with ultracold atoms using state-of-the-art experimental resources. The experimental setup proposed may provide a unique access to longstanding open questions for which classical computational methods are no longer applicable.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2012.08620.pdf
+url_pdf: https://arxiv.org/pdf/1608.03480.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
