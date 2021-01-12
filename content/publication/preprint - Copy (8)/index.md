@@ -1,7 +1,7 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Inflationary preheating dynamics with two-species condensates"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Torsten V. Zache, Valentin Kasper, Juergen Berges
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
+abstract: We investigate both analytically and numerically a two-component ultracold atom system in one spatial dimension. The model features a tachyonic instability, which incorporates characteristic aspects of the mechanisms for particle production in early universe inflaton models. We establish a direct correspondence between measurable macroscopic growth rates for occupation numbers of the ultracold Bose gas and the underlying microscopic processes in terms of Feynman loop diagrams. We analyze several existing ultracold atom setups featuring dynamical instabilities and propose optimized protocols for their experimental realization. We demonstrate that relevant dynamical processes can be enhanced using a seeding procedure for unstable modes and clarify the role of initial quantum fluctuations and the generation of a nonlinear secondary stage for the amplification of modes.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2012.08620.pdf
+url_pdf: https://arxiv.org/abs/1704.02271
 url_code: ''
 url_dataset: ''
 url_poster: ''
