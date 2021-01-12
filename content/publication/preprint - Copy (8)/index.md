@@ -2,7 +2,7 @@
 title: "Inflationary preheating dynamics with two-species condensates"
 authors:
 - Torsten V. Zache, Valentin Kasper, Juergen Berges
-date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

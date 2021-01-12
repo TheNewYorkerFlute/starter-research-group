@@ -2,7 +2,7 @@
 title: "Simulating a quantum commensurate-incommensurate phase transition using two Raman-coupled one-dimensional condensates"
 authors:
 - Valentin Kasper, Jamir Marino, Si-Cong Ji, Vladimir Gritsev, Joerg Schmiedmayer, Eugene Demler
-#date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

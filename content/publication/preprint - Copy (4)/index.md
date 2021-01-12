@@ -2,7 +2,7 @@
 title: "From the Jaynes-Cummings model to non-Abelian gauge theories: a guided tour for the quantum engineer"
 authors:
 - Valentin Kasper, Gediminas Juzeliunas, Maciej Lewenstein, Fred Jendrzejewski, Erez Zohar
-#date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
