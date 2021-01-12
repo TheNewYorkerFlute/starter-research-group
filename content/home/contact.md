@@ -1,24 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
-weight: 40
+widget: contact
+headless: true  # This file represents a page section.
 
 title: Contact
 subtitle:
 
 content:
-  count: 6
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: contact
-design:
-  view: 3
-  columns: "1"
+  # Automatically link email and phone or display as text?
+  autolink: true
+weight: 40
+
 ---
