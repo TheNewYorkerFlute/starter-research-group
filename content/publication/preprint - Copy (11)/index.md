@@ -1,12 +1,11 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Schwinger pair production with ultracold atoms"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Valentin Kasper, Florian Hebenstreit, Markus K. Oberthaler, Juergen Berges
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +17,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
+abstract: We consider a system of ultracold atoms in an optical lattice as a quantum simulator for electron–positron pair production in quantum electrodynamics (QED). For a setup in one spatial dimension, we investigate the nonequilibrium phenomenon of pair production including the backreaction leading to plasma oscillations. Unlike previous investigations on quantum link models, we focus on the infinite-dimensional Hilbert space of QED and show that it may be well approximated by experiments employing Bose–Einstein condensates interacting with fermionic atoms. Numerical calculations based on functional integral techniques give a unique access to the physical parameters required to realize QED phenomena in a cold atom experiment. In particular, we use our approach to consider quantum link models in a yet unexplored parameter regime and give bounds for their ability to capture essential features of the physics. The results suggest a paradigmatic change towards realizations using coherent many-body states for quantum simulations of high-energy particle physics phenomena.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +29,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2012.08620.pdf
+url_pdf: https://arxiv.org/pdf/1506.01238.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
