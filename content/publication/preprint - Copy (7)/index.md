@@ -1,7 +1,7 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Quantum quench of the Sachdev-Ye-Kitaev model"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Andreas Eberlein, Valentin Kasper, Subir Sachdev, and Julia Steinberg
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
+abstract: We describe the non-equilibrium dynamics of the Sachdev-Ye-Kitaev models of fermions with all-to-all interactions. These provide tractable models of the dynamics of quantum systems without quasiparticle excitations. The Kadanoff-Baym equations show that the final state is thermal, and their numerical analysis appears consistent with a thermalization rate proportional to the absolute temperature of the final state. We also obtain an exact analytic solution of the non-equilibrium dynamics in the large $q$ limit of a model with $q$ fermion interactions. In this limit, the thermalization of the fermion Green's function is instantaneous.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2012.08620.pdf
+url_pdf: https://arxiv.org/pdf/1706.07803.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,7 +1,7 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Simulating a quantum commensurate-incommensurate phase transition using two Raman-coupled one-dimensional condensates"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Valentin Kasper, Jamir Marino, Si-Cong Ji, Vladimir Gritsev, Joerg Schmiedmayer, Eugene Demler
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
+abstract: We study a transition between a homogeneous and an inhomogeneous phase in a system of one-dimensional, Raman tunnel-coupled Bose gases. The homogeneous phase shows a flat density and phase profile, whereas the inhomogeneous ground state is characterized by periodic density ripples, and a soliton staircase in the phase difference. We show that under experimentally viable conditions the transition can be tuned by the wavevector difference Q of the Raman beams and can be described by the Pokrovsky-Talapov model for the relative phase between the two condensates. Local imaging available in atom chip experiments allows to observe the soliton lattice directly, while modulation spectroscopy can be used to explore collective modes, such as the phonon mode arising from breaking of translation symmetry by the soliton lattice. In addition, we investigate regimes where the cold atom experiment deviates from the Pokrovsky-Talapov field theory. We predict unusual mesoscopic effects arising from the finite size of the system, such as quantized injection of solitons upon increasing Q, or the system size. For moderate values of Q above criticality, we find that the density modulations in the two gases interplay with the relative phase profile and introduce novel features in the spatial structure of the mode wave-functions. Using an inhomogeneous Bogoliubov theory, we show that spatial quantum fluctuations are intertwined with the emerging soliton staircase. Finally, we comment on the prospects of the ultra-cold atom setup as a tunable platform studying quantum aspects of the Pokrovsky-Talapov theory in and out-of-equilibrium.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

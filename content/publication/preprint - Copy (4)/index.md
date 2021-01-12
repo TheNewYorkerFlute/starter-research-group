@@ -1,7 +1,7 @@
 ---
-title: "Fate of Lattice Gauge Theories Under Decoherence"
+title: "From the Jaynes-Cummings model to non-Abelian gauge theories: a guided tour for the quantum engineer"
 authors:
-- Jad C Halimeh, Valentin Kasper, Philipp Hauke
+- Valentin Kasper, Gediminas Juzeliunas, Maciej Lewenstein, Fred Jendrzejewski, Erez Zohar
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: A major test of the capabilities of modern quantum simulators and NISQ devices is the reliable realization of gauge theories, which constitute a gold standard of implementational efficacy. In addition to unavoidable unitary errors, realistic experiments suffer from decoherence, which compromises gauge invariance and, therefore, the gauge theory itself. Here, we study the effect of decoherence on the quench dynamics of a lattice gauge theory. Rigorously identifying the gauge violation as a divergence measure in the gauge sectors, we find at short times that it first grows diffusively $\sim\gamma t$ due to decoherence at environment-coupling strength $\gamma$, before unitary errors at strength $\lambda$ dominate and the violation grows ballistically $\sim\lambda^2t^2$. We further introduce multiple quantum coherences in the context of gauge theories to quantify decoherence effects. Both experimentally accessible measures will be of independent interest beyond the immediate context of this work.
+abstract: The design of quantum many body systems, which have to fulfill an extensive number of constraints, appears as a formidable challenge within the field of quantum simulation. Lattice gauge theories are a particular important class of quantum systems with an extensive number of local constraints and play a central role in high energy physics, condensed matter and quantum information. Whereas recent experimental progress points towards the feasibility of large-scale quantum simulation of Abelian gauge theories, the quantum simulation of non-Abelian gauge theories appears still elusive. In this paper we present minimal non-Abelian lattice gauge theories, whereby we introduce the necessary formalism in well-known Abelian gauge theories, such as the Jaynes-Cumming model. In particular, we show that certain minimal non-Abelian lattice gauge theories can be mapped to three or four level systems, for which the design of a quantum simulator is standard with current technologies. Further we give an upper bound for the Hilbert space dimension of a one dimensional SU(2) lattice gauge theory, and argue that the implementation with current digital quantum computer appears feasible.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2009.07848.pdf
+url_pdf: https://arxiv.org/pdf/2006.01258.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
