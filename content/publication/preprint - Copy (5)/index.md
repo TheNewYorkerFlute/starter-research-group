@@ -1,12 +1,12 @@
 ---
-title: "Non-Abelian gauge invariance from dynamical decoupling"
+title: "Fate of Lattice Gauge Theories Under Decoherence"
 authors:
-- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
+- Jad C Halimeh, Valentin Kasper, Philipp Hauke
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-18T00:00:00Z"
+publishDate: "2020-09-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/pdf/2012.08620.pdf
+url_pdf: https://arxiv.org/pdf/2009.07848.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
