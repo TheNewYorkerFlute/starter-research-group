@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Non-Abelian gauge invariance from dynamical decoupling"
 authors:
-- admin
+- Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,18 +18,18 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: arXiv
+#  url: https://arxiv.org/pdf/2012.08620.pdf 
 url_pdf: https://arxiv.org/pdf/2012.08620.pdf
 url_code: ''
 url_dataset: ''
@@ -41,10 +41,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,5 +64,3 @@ slides:
 ---
 
 
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
