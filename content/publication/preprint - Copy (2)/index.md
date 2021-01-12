@@ -2,7 +2,7 @@
 title: "Universal quantum computation and quantum error correction with ultracold atomic mixtures"
 authors:
 - Valentin Kasper, Daniel González-Cuadra, Apoorva Hegde, Andy Xia, Alexandre Dauphin, Felix Huber, Eberhard Tiemann, Maciej Lewenstein, Fred Jendrzejewski, Philipp Hauke
-date: "2019-04-07T00:00:00Z"
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

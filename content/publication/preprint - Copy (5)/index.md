@@ -2,7 +2,7 @@
 title: "Non-Abelian gauge invariance from dynamical decoupling"
 authors:
 - Valentin Kasper, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein, Erez Zohar
-date: "2019-04-07T00:00:00Z"
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

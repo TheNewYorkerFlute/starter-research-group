@@ -2,7 +2,7 @@
 title: "Preparation of the 1/2-Laughlin state with atoms in a rotating trap"
 authors:
 - Bárbara Andrade, Valentin Kasper, Maciej Lewenstein, Christof Weitenberg, Tobias Graß
-date: "2019-04-07T00:00:00Z"
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

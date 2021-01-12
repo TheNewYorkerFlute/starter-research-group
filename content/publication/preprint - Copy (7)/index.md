@@ -2,7 +2,7 @@
 title: "Quantum quench of the Sachdev-Ye-Kitaev model"
 authors:
 - Andreas Eberlein, Valentin Kasper, Subir Sachdev, and Julia Steinberg
-date: "2019-04-07T00:00:00Z"
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

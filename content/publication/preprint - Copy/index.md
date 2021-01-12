@@ -2,7 +2,7 @@
 title: "Storage capacity and learning capability of quantum neural networks"
 authors:
 - Maciej Lewenstein, Aikaterini Gratsea, Andreu Riera-Campeny, Albert Aloy, Valentin Kasper, Anna Sanpera
-date: "2019-04-07T00:00:00Z"
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
