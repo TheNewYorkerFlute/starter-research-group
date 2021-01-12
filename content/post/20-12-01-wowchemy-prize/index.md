@@ -1,14 +1,12 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: New preprint: Non-Abelian gauge invariance from dynamical decoupling
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+In this work we, Torsten V. Zache, Fred Jendrzejewski, Maciej Lewenstein and Erez Zohar use ideas of quantum error correction/quantum control to enforce a local non-Abelian symmetry. Here is the abstract:
+
+Lattice gauge theories are fundamental to such distinct fields as particle physics, condensed matter or quantum information theory. The recent progress in the control of artificial quantum systems already allows for studying Abelian lattice gauge theories in table-top experiments. However, the realization of non-Abelian models remains challenging. Here, we employ a coherent quantum control scheme to enforce non-Abelian gauge invariance, and discuss this idea in detail for a one dimensional SU(2) lattice gauge system. Finally, we comment on how to extend our scheme to other non-Abelian gauge symmetries and higher spatial dimensions, which summarized, provides a promising route for the quantum simulation of non-Abelian lattice gauge theories. 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+https://arxiv.org/abs/2012.08620
