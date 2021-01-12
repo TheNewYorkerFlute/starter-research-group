@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Theoretical Physics
     institution: University of Heidelberg
-    year: 2012-2016
+    year: 2016
   - course: Diploma in Physics
     institution: University of Heidelberg
-    year: 2008-2012
+    year: 2012
   - course: Undergraduate studies in Physics
     institution: University of Magdeburg
-    year: 2007-2008
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:valentin.kasper@icfo.net'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.de/citations?user=cabQ0WMAAAAJ&hl=en&oi=ao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,4 @@ user_groups:
 - Researchers
 ---
 
-Valentin Kasper is doing some things.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on the design, control and investigation of synthetic quantum many-body systems.
