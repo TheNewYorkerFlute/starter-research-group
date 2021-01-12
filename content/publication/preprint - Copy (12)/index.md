@@ -1,12 +1,12 @@
 ---
-title: "Inflationary preheating dynamics with two-species condensates"
+title: "Fermion production from real-time lattice gauge theory in the classical-statistical regime"
 authors:
-- Torsten V. Zache, Valentin Kasper, Juergen Berges
+- Valentin Kasper, Florian Hebenstreit, Jürgen Berges
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017"
+publishDate: "2012"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We investigate both analytically and numerically a two-component ultracold atom system in one spatial dimension. The model features a tachyonic instability, which incorporates characteristic aspects of the mechanisms for particle production in early universe inflaton models. We establish a direct correspondence between measurable macroscopic growth rates for occupation numbers of the ultracold Bose gas and the underlying microscopic processes in terms of Feynman loop diagrams. We analyze several existing ultracold atom setups featuring dynamical instabilities and propose optimized protocols for their experimental realization. We demonstrate that relevant dynamical processes can be enhanced using a seeding procedure for unstable modes and clarify the role of initial quantum fluctuations and the generation of a nonlinear secondary stage for the amplification of modes.
+abstract: We investigate the real-time dynamics of U (1) and SU (N) gauge theories coupled to fermions on a lattice. While real-time lattice gauge theory is not amenable to standard importance sampling techniques, for a large class of time-dependent problems the quantum dynamics can be accurately mapped onto a classical-statistical ensemble. We illustrate the genuine quantum contributions included in this description by giving a diagrammatic representation in a series expansion. The nonperturbative simulation method is then applied to electron-positron production in quantum electrodynamics in three spatial dimensions. We compare to analytic results for constant background field and demonstrate the importance of backreaction of the produced fermion pairs on the gauge fields.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/pdf/2012.08620.pdf 
-url_pdf: https://arxiv.org/abs/1704.02271
+url_pdf: https://arxiv.org/pdf/2012.08620.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
