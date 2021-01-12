@@ -1,5 +1,5 @@
 ---
-title: Postdoctoral Junior Leader “la Caixa” Foundation Fellowships
+title: Junior Leader “la Caixa” Foundation Fellowships
 
 date: 2020-12-31
 ---
