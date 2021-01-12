@@ -89,11 +89,11 @@ phone = "+34 935534070"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Avinguda Carl Friedrich Gauss 3", city = "Castelldefels (Barcelona)", region = "CT", postcode = "08860", country = "Spain", country_code = "E"}
+address = {street = "Avinguda Carl Friedrich Gauss 3", city = "Castelldefels (Barcelona)", postcode = "08860", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
