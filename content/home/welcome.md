@@ -19,4 +19,4 @@ advanced:
 
 My research focuses on the design, control and investigation of synthetic quantum many-body systems.
 
-Future projects aim at deepen our understanding of quantum system and employ them for technological applications such as quantum simulation, quantum computation and quantum error correction. 
+Future projects aim at deepen our understanding of microscopic and macroscopic quantum system and employ quantum phyiscs for technological applications such as quantum simulation, quantum computation and quantum error correction. 
