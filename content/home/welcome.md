@@ -19,5 +19,5 @@ advanced:
 
 <div style="text-align: justify"> My research focuses on the design, control and investigation of synthetic quantum many-body systems. </div>
 
-<div style="text-align: right"> Future projects aim at deepen our understanding of microscopic and macroscopic quantum systems and employ quantum phyiscs for technological applications with special focus on quantum simulation, quantum computation and quantum error correction.  </div>
+<div style="text-align: left"> Future projects aim at deepen our understanding of microscopic and macroscopic quantum systems, while employing quantum phyiscs for technological applications. Special attention is paid to quantum simulation, quantum computation and quantum error correction.  </div>
 
