@@ -1,37 +1,25 @@
 ---
 # Display name
-title: Valentin Kasper
+title: Fred Jendrzejewski
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junior research leader
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: ICFO
+- name: University of Heidelberg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- quantum optics
-- quantum many-body theory
-- Information Retrieval
+- ultracold atoms
+- quantum simulation
 
-education:
-  courses:
-  - course: PhD in Theoretical Physics
-    institution: University of Heidelberg
-    year: 2016
-  - course: Diploma in Physics
-    institution: University of Heidelberg
-    year: 2012
-  - course: Undergraduate studies in Physics
-    institution: University of Magdeburg
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +28,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:valentin.kasper@icfo.net'
+  link: 'mailto:fnj@kip.uni-heidelberg.de'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=cabQ0WMAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=-22MXD8AAAAJ&hl=de&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -68,4 +56,3 @@ user_groups:
 - Collaborators
 ---
 
-My research focuses on the design, control and investigation of synthetic quantum many-body systems.
