@@ -1,5 +1,6 @@
 ---
 # Display name
+active: false
 title: Fred Jendrzejewski
 
 # Is this the primary user of the site?
